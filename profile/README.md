@@ -1,4 +1,4 @@
-# Anemi.AI
+# Anem.AI
 
 Anem.AI app aims to provide users with a comprehensive tool for managing anemia, including tracking (detect) symptoms, accessing article resources, and check-up history. Anem.AI aspires to make meaningful steps to improving quality of life for individuals living with anemia to monitor their condition in digital health solutions.
 
