@@ -1,4 +1,4 @@
-# Anem.AI
+# ANEM.AI
 
 # App Background
 Anemia is a condition in which the body has fewer red blood cells than normal or lower than usual. The occurrence of anemia is common in pregnant women, as evidenced by data from the Kemenkes in 2019, which shows that the prevalence of anemia in pregnant women in Indonesia is still relatively high at 48.9%. Pregnant women who suffer from anemia will have an impact on the health of the fetus, bleeding, and even miscarriage. According to the WHO, 37% of pregnant women and 30% of women aged 15–49 worldwide suffer from anemia.
@@ -24,7 +24,7 @@ Anem.AI app aims to provide users with a comprehensive tool for managing anemia,
 
 
 ## Desain Figma Anemi.AI
------------------------------------
+Coming Soon!!
 
 
 ## Project Member
