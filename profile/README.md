@@ -18,7 +18,7 @@ Anem.AI app aims to provide users with a comprehensive tool for managing anemia,
   <img src="./assets/Branding 3.PNG"/>
 </p>
 
-## Deployment Link APK Waras
+## Deployment Link APK Anem.ai
 Coming Soon!!
 
 ## Link Figma Anem.AI
