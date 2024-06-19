@@ -11,10 +11,6 @@ Anem.AI app aims to provide users with a comprehensive tool for managing anemia,
 
 ## Branding Guideline
 <p>
-  <img src="./assets/Branding guide line.PNG"/>
-</p>
-
-<p>
   <img src="./assets/Branding 2.PNG"/>
 </p>
 
@@ -29,7 +25,7 @@ Check out the [Anem.AI prototype](https://www.figma.com/proto/sCUhsJWK0OXSH8DQ3Z
 
 ## Cloud Architecture
 <p>
-  <img src="./assets/Branding guide line.PNG"/>
+  <img src="./assets/Cloud Architecture Anem.ia.png"/>
 </p>
 
 
