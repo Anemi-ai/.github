@@ -24,7 +24,7 @@ Anem.AI app aims to provide users with a comprehensive tool for managing anemia,
 
 
 ## Desain Figma Anem.AI
-Coming Soon!!
+https://bit.ly/FigmaAnemAi
 
 
 ## Project Member
