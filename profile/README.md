@@ -27,6 +27,11 @@ Anem.AI app aims to provide users with a comprehensive tool for managing anemia,
 
 Check out the [Anem.AI prototype](https://www.figma.com/proto/sCUhsJWK0OXSH8DQ3Zpx76/anem.ai?node-id=601-945&t=AdxlJkT6cQ7hSA6Z-9&scaling=scale-down&content-scaling=fixed&page-id=601%3A11&starting-point-node-id=601%3A945&show-proto-sidebar=1) on Figma.
 
+## System Architecture
+<p>
+  <img src="./assets/Branding guide line.PNG"/>
+</p>
+
 
 
 ## Project Member
