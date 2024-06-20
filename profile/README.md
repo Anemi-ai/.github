@@ -14,8 +14,10 @@ Anem.AI app aims to provide users with a comprehensive tool for managing anemia,
   <img src="./assets/Branding 2.PNG"/>
 </p>
 
+## App Interface
 <p>
-  <img src="./assets/Branding 3.PNG"/>
+  <img src="./assets/Screenshots Application anem.ai.png)
+"/>
 </p>
 
 ## Deployment Link APK Anem.ai
