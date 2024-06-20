@@ -1,6 +1,9 @@
 # anem.ai  - Bangkit Capstone Project 2024 ✨✨
+<p>
+   <img src ="./assets/Screenshots Application anem.ai.png"/>
+</p>
 
-# App Background
+## App Background
 Anemia is a condition in which the body has fewer red blood cells than normal or lower than usual. The occurrence of anemia is common in pregnant women, as evidenced by data from the Kemenkes in 2019, which shows that the prevalence of anemia in pregnant women in Indonesia is still relatively high at 48.9%. Pregnant women who suffer from anemia will have an impact on the health of the fetus, bleeding, and even miscarriage. According to the WHO, 37% of pregnant women and 30% of women aged 15–49 worldwide suffer from anemia.
 
 There needs to be awareness among pregnant women to maintain their health and consume nutritious foods. Health institutions do not reach remote areas in Indonesia, and access to hospitals for those in remote areas is very limited. Based on these issues, we have developed a system for anemia detection application using the conjunctiva of the eye, which will detect anemia in real-time. The purpose of creating this detection application is to assist pregnant women in early detection of anemia, save costs, time, and help health institutions detect anemia efficiently and effectively.
@@ -14,11 +17,6 @@ Anem.AI app aims to provide users with a comprehensive tool for managing anemia,
   <img src="./assets/Branding 2.PNG"/>
 </p>
 
-## App Interface
-<p>
-   <img src ="./assets/Screenshots Application anem.ai.png"/>
-</p>
-
 ## Deployment Link APK Anem.ai
 Coming Soon!!
 
@@ -30,8 +28,6 @@ Check out the [Anem.AI prototype](https://www.figma.com/proto/sCUhsJWK0OXSH8DQ3Z
 <p>
   <img src="./assets/Cloud Architecture Anem.ia.png"/>
 </p>
-
-
 
 ## Project Member
 
