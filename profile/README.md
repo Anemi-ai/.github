@@ -39,13 +39,13 @@ Team C241-PS059 Bangkit Academy 2024 Batch 1
 
 | Member's name                   | Student ID   | Universitas                  | Path              | Information                                          |
 |---------------------------------|--------------|------------------------------|-------------------|------------------------------------------------------|
-| Munifah Istniatika Rozana       | M013D4KX1746 | Universitas Terbuka          | Machine Learning | [LinkedIn](https://www.linkedin.com/in/munifahrozana)|
+| Munifah Istniatika Rozana       | M013D4KX1746 | Universitas Terbuka          | Machine Learning | [LinkedIn](https://www.linkedin.com/in/munifah-istniatika-rozana/)|
 | Firda Aulia Rakhmah             | M124D4KX1585 | Politeknik Harapan Bersama   | Machine Learning | [LinkedIn](https://www.linkedin.com/in/firda-aulia-rakhmah/) |
-| Lulu Nahdhiatun Anisa           | M124D4KX1586 | Politeknik Harapan Bersama   | Machine Learning | [LinkedIn](https://www.linkedin.com/in/luluanisa)    |
+| Lulu Nahdhiatun Anisa           | M124D4KX1586 | Politeknik Harapan Bersama   | Machine Learning | [LinkedIn](https://www.linkedin.com/in/lulu-nadhiatun-anisa/)    |
 | Mohamad Ridwan Masykur          | C227D4KY09236| Universitas Jember           | Cloud Computing  | [LinkedIn](https://www.linkedin.com/in/mohamadridwanmasykur/)|
-| Ibnu Tamiyya Al Kharoni         | C278D4KY1010 | Universitas Negeri Makassar  | Cloud Computing  | [LinkedIn](https://www.linkedin.com/in/ibnukharoni)  |
-| Yefta Tanuwijaya                | A700D4KY4327 | Universitas Pradita          | Mobile Developer | [LinkedIn](https://www.linkedin.com/in/yeftatanuwijaya)|
-| Balkis Arifatul Fadia           | A124D4KX3520 | Politeknik Harapan Bersama   | Mobile Developer | [LinkedIn](https://www.linkedin.com/in/balkisfadia)  |
+| Ibnu Tamiyya Al Kharoni         | C278D4KY1010 | Universitas Negeri Makassar  | Cloud Computing  | [LinkedIn](https://www.linkedin.com/in/ibnu-tamiyya-al-kharoni-96b6a52a0/)  |
+| Yefta Tanuwijaya                | A700D4KY4327 | Universitas Pradita          | Mobile Developer | [LinkedIn](https://www.linkedin.com/in/yefta-tanuwijaya-9a65621b9/)|
+| Balkis Arifatul Fadia           | A124D4KX3520 | Politeknik Harapan Bersama   | Mobile Developer | [LinkedIn](https://www.linkedin.com/in/balkis-arifatul-fadia-6b6b16223/)  |
 
 
 
