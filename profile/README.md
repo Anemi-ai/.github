@@ -4,8 +4,12 @@
 </p>
 
 ## anem.ai Description 📱
-Proud to present our application, anem.ai! Our application provides the MVP feature which detects anemia using the conjunctiva of the eye. anem.ai offers other features including history detection to monitor users' condition, recommendations based on the anemia level, and articles about anemia to educate all the users. 
-Chatbot, online consultation, and hospital recommendation features will be launched soon. Stay tuned!
+Anemia is a condition in which the number of red blood cells or the hemoglobin concentration within them is lower than normal. In Indonesia, the prevalence of anemia cases is quite high, reaching 14.4% in men and 18% in women. Meanwhile, globally, as many as 38% of pregnant women worldwide suffer from anemia. This data shows that there are still many people who do not understand the dangers of anemia and its negative impact on health. It is important to develop an application that can help improve public awareness and understanding of anemia.
+
+We are proud to present our application, anem.ai! Our application provides the MVP feature, detection of anemia using the conjunctiva of the eye. anem.ai offers other features including history detection to monitor users' condition, recommendations based on the anemia level, and articles about anemia to educate all the users. 
+
+Chatbot, online consultation, and hospital recommendation will be launched soon. Stay tuned!
+
 
 
 <!-- Profil Header -->
