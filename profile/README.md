@@ -18,8 +18,7 @@ Anem.AI app aims to provide users with a comprehensive tool for managing anemia,
 </p>
 
 
-## Deployment Link APK Anem.ai
-Coming Soon!!
+## [Download App Here (.apk file)]()📲
 
 
 # Project Member 🤝
