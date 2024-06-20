@@ -12,7 +12,7 @@ Anem.AI app aims to provide users with a comprehensive tool for managing anemia,
 
 <!-- Profil Header -->
 
-## Branding Guideline
+## Branding Guideline 🙌🏻
 <p>
   <img src="./assets/Branding 2.PNG"/>
 </p>
