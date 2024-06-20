@@ -3,7 +3,7 @@
    <img src ="./assets/Screenshots Application anem.ai.png"/>
 </p>
 
-## App Background
+## anem.ai Description 📱
 Anemia is a condition in which the body has fewer red blood cells than normal or lower than usual. The occurrence of anemia is common in pregnant women, as evidenced by data from the Kemenkes in 2019, which shows that the prevalence of anemia in pregnant women in Indonesia is still relatively high at 48.9%. Pregnant women who suffer from anemia will have an impact on the health of the fetus, bleeding, and even miscarriage. According to the WHO, 37% of pregnant women and 30% of women aged 15–49 worldwide suffer from anemia.
 
 There needs to be awareness among pregnant women to maintain their health and consume nutritious foods. Health institutions do not reach remote areas in Indonesia, and access to hospitals for those in remote areas is very limited. Based on these issues, we have developed a system for anemia detection application using the conjunctiva of the eye, which will detect anemia in real-time. The purpose of creating this detection application is to assist pregnant women in early detection of anemia, save costs, time, and help health institutions detect anemia efficiently and effectively.
@@ -17,20 +17,12 @@ Anem.AI app aims to provide users with a comprehensive tool for managing anemia,
   <img src="./assets/Branding 2.PNG"/>
 </p>
 
+
 ## Deployment Link APK Anem.ai
 Coming Soon!!
 
-## Link Figma Anem.AI
 
-Check out the [Anem.AI prototype](https://www.figma.com/proto/sCUhsJWK0OXSH8DQ3Zpx76/anem.ai?node-id=601-945&t=AdxlJkT6cQ7hSA6Z-9&scaling=scale-down&content-scaling=fixed&page-id=601%3A11&starting-point-node-id=601%3A945&show-proto-sidebar=1) on Figma.
-
-## Cloud Architecture
-<p>
-  <img src="./assets/Cloud Architecture Anem.ia.png"/>
-</p>
-
-## Project Member
-
+# Project Member 🤝
 Team C241-PS059 Bangkit Academy 2024 Batch 1
 
 | Member's name                   | Student ID   | Universitas                  | Path              | Information                                          |
@@ -44,7 +36,11 @@ Team C241-PS059 Bangkit Academy 2024 Batch 1
 | Balkis Arifatul Fadia           | A124D4KX3520 | Politeknik Harapan Bersama   | Mobile Developer | [LinkedIn](https://www.linkedin.com/in/balkis-arifatul-fadia-6b6b16223/)  |
 
 
+# Repositories 📁
+You can check our repositories for each learning path in the tables below. 
 
-## Terima Kasih
-
----
+|   Learning Paths   |                                Link                                |
+| :----------------: | :----------------------------------------------------------------: |
+| Mobile Development | [Github]()       |
+|  Machine Learning  |  [Github]()       |
+|   Cloud Computing  |   [Github]()    |
