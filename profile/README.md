@@ -4,11 +4,9 @@
 </p>
 
 ## anem.ai Description 📱
-Anemia is a condition in which the body has fewer red blood cells than normal or lower than usual. The occurrence of anemia is common in pregnant women, as evidenced by data from the Kemenkes in 2019, which shows that the prevalence of anemia in pregnant women in Indonesia is still relatively high at 48.9%. Pregnant women who suffer from anemia will have an impact on the health of the fetus, bleeding, and even miscarriage. According to the WHO, 37% of pregnant women and 30% of women aged 15–49 worldwide suffer from anemia.
+Proud to present our application, anem.ai! Our application provides the MVP feature which detects anemia using the conjunctiva of the eye. anem.ai offers other features including history detection to monitor users' condition, recommendations based on the anemia level, and articles about anemia to educate all the users. 
+Chatbot, online consultation, and hospital recommendation features will be launched soon. Stay tuned!
 
-There needs to be awareness among pregnant women to maintain their health and consume nutritious foods. Health institutions do not reach remote areas in Indonesia, and access to hospitals for those in remote areas is very limited. Based on these issues, we have developed a system for anemia detection application using the conjunctiva of the eye, which will detect anemia in real-time. The purpose of creating this detection application is to assist pregnant women in early detection of anemia, save costs, time, and help health institutions detect anemia efficiently and effectively.
-
-Anem.AI app aims to provide users with a comprehensive tool for managing anemia, including tracking (detect) symptoms, accessing article resources, and check-up history. Anem.AI aspires to make meaningful steps to improving quality of life for individuals living with anemia to monitor their condition in digital health solutions.
 
 <!-- Profil Header -->
 
