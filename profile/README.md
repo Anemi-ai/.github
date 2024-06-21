@@ -43,5 +43,5 @@ You can check our repositories for each learning path in the tables below.
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
 | Mobile Development | [Github](https://github.com/Anemi-ai/Anem-ai-Android)       |
-|  Machine Learning  |  [Github]()       |
+|  Machine Learning  |  [Github](https://github.com/Anemi-ai/Anem.ai-ML.git)       |
 |   Cloud Computing  |   [Github]()    |
