@@ -20,7 +20,7 @@ Chatbot, online consultation, and hospital recommendation will be launched soon.
 </p>
 
 
-## [Download App Here (.apk file)](https://github.com/Anemi-ai/Anem-ai-Android)📲
+## [Download App Here (.apk file)](https://drive.google.com/file/d/1TA8vNsGy6DYQ1Bw7a8ZGK3vVT-I6va-l/view)📲
 
 
 # Project Member 🤝
